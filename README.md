@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working on improving my programming skills. <br>I'm interested in cybersecurity and looking forward to explore more in<br>the said field.
-
+I'm an ML enthusiast. <br>I'm learning the machine learning techniques and hope to work on projects related to the same.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyasadhasivam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-sadhasivam) 
