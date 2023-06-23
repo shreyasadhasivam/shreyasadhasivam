@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on expanding my AI/ML skills. I'm a Machine Learning enthusiast.<br><br>I'm looking to collaborate on ML projects.<br>
+I'm currently working on expanding my AI/ML skills. I'm a Machine Learning enthusiast.<br><br>I'm looking to collaborate on ML projects.<br>I am currently looking forward to learn R.
 
 
 ## 🌐 Socials:
